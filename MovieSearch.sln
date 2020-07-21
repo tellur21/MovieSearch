@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MovieSearch", "MovieSearch.njsproj", "{70FF61A5-CC52-4ADD-91B1-931F19641391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70FF61A5-CC52-4ADD-91B1-931F19641391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FF61A5-CC52-4ADD-91B1-931F19641391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FF61A5-CC52-4ADD-91B1-931F19641391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FF61A5-CC52-4ADD-91B1-931F19641391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BDAF2F2-0679-4594-8CC0-8DC158E68740}
+	EndGlobalSection
+EndGlobal
